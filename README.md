@@ -9,3 +9,4 @@ Search data provides a story for the Mercadolibre stock price, and manipulating 
 
 Within the project file, you can also view my recommendations based on projections for sales data next quarter. Base, worst-case, and best-case values can allow Mercadolibre to plan for all scenarios as it delivers e-commerce solutions for others. 
 
+Take a look inside my work file to view my answers to the company's questions about its search data, stock performance, and sales. 
